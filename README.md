@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kazeem Asifat</h1>
-<h3 align="center">A passionate Software Developer from Nigeria with over half a decade of Experience</h3>
+<h3 align="center">A passionate Software Developer from Nigeria with almost a decade of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kazeeem&label=Profile%20views&color=0e75b6&style=flat" alt="Kazeeem" /> </p>
 
